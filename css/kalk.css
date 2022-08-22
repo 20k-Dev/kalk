@@ -2,27 +2,27 @@
 body {
   padding-top: 3rem;
   background-color: #181A18;
+  font-family: 'Poppins', sans-serif;
 }
 .bg-kalk-dark {
   background-color: #181A18 !important;
 }
 .bg-kalk-active {
-  background: rgb(41,41,40);
+  background: rgb(41, 41, 40);
 }
 .bg-kalk-disabled {
-  background: rgb(12,12,12);
+  background: rgb(12, 12, 12);
 }
 .floating-text-dark {
-  color: rgb(70,70,70);
-	padding-right: 0.5rem;
+  color: rgb(70, 70, 70);
+  padding-right: 0.5rem;
 }
 .btn-circle {
-	padding: 0px;
-	border-radius: 50%;
-	background-color: transparent;
-	border: none;
-	transition: all .5s ease-in-out;
-
+  padding: 0px;
+  border-radius: 50%;
+  background-color: transparent;
+  border: none;
+  transition: all .5s ease-in-out;
 }
 /*.btn-circle, .btn-circle-primary:hover, .btn-circle-primary:focus, .btn-circle-primary:active, .btn-circle-primary.active {
 	transition: all .5s ease-in-out;
@@ -30,52 +30,47 @@ body {
 /*.btn-circle-secondary,.btn-circle-secondary:hover, .btn-circle-secondary:focus, .btn-circle-secondary:active, .btn-circle-secondary.active {
 	transition: all .5s ease-in-out;
 }*/
-.btn-circle-primary {
-
-}
+.btn-circle-primary {}
 .btn-circle-primary:hover, .btn-circle-primary:focus, .btn-circle-primary:active, .btn-circle-primary.active {
-    background-color: rgba(255,255,255,0.5);
-    border: none;
+  background-color: rgba(255, 255, 255, 0.5);
+  border: none;
 }
-.btn-circle-secondary {
-    
-}
+.btn-circle-secondary {}
 .btn-circle-secondary:hover, .btn-circle-secondary:focus, .btn-circle-secondary:active, .btn-circle-secondary.active {
-    background-color: rgba(127,127,127,0.5);
-    border: none;
+  background-color: rgba(127, 127, 127, 0.5);
+  border: none;
 }
 .btn-circle-small {
-	width: 31px;
-    height: 31px;
-	margin-left: 0.5rem;
+  width: 31px;
+  height: 31px;
+  margin-left: 0.5rem;
 }
 .btn-circle-medium {
-	width: 63px;
-    height: 63px;
+  width: 63px;
+  height: 63px;
 }
 .btn-circle-big {
-	width: 77px;
-    height: 77px;
+  width: 77px;
+  height: 77px;
 }
 input[type="radio"] {
   display: none;
 }
 input[type="text"] {
-	width: 100%;
+  width: 100%;
 }
 input[type="number"] {
-	width: 100%;
+  width: 100%;
 }
-
 input[type="radio"]:checked + label.floating-text-dark {
-    color: rgb(123,121,119);
+  color: rgb(123, 121, 119);
 }
 .transition-swipe {
-	opacity: 1;
-	transition: 500ms;
+  opacity: 1;
+  transition: 500ms;
 }
 html.is-animating .transition-swipe {
-	opacity: 0;
+  opacity: 0;
   transform: translate3d(-50%, 0, 0);
 }
 html.is-animating.is-rendering .transition-swipe {
@@ -83,9 +78,9 @@ html.is-animating.is-rendering .transition-swipe {
   transform: translate3d(50%, 0, 0);
 }
 .transition-fade {
-	opacity: 1;
-	transition: 500ms;
+  opacity: 1;
+  transition: 500ms;
 }
 html.is-animating .transition-fade {
-	opacity: 0;
+  opacity: 0;
 }
