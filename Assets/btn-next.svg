@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 66.48 66.51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1" data-name="Calque 1">
+    <g>
+      <ellipse class="cls-1" cx="33.24" cy="33.25" rx="31.74" ry="31.75"/>
+      <g>
+        <rect class="cls-2" x="21.22" y="32.08" width="21.49" height="2.35"/>
+        <polygon class="cls-2" points="34.92 42.87 33.32 41.14 41.81 33.26 33.32 25.36 34.92 23.64 45.26 33.26 34.92 42.87"/>
+      </g>
+    </g>
+  </g>
+</svg>

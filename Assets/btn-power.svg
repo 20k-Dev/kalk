@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 79.45 79.49">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1" data-name="Calque 1">
+    <g>
+      <ellipse class="cls-1" cx="39.73" cy="39.75" rx="38.73" ry="38.75"/>
+      <g id="SuCcDN">
+        <path class="cls-1" d="M41.13,37.74h12.02c-7.31,9.18-14.56,18.29-21.81,27.4-.03-.01-.05-.03-.08-.04,2.35-6.51,4.7-13.02,7.08-19.6h-12.02c7.33-9.2,14.56-18.29,21.8-27.38,.03,.02,.06,.03,.09,.05-2.35,6.5-4.7,13-7.07,19.58Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
